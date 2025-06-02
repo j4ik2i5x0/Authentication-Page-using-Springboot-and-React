@@ -13,6 +13,19 @@ A sleek and secure authentication system featuring local login/signup and Google
 ---
 
 ## 📂 Folder Structure
+project-root/
+│
+├── backend/               # Spring Boot App
+│   ├── src/
+│   ├── pom.xml
+│
+├── React-frontend/        # React Frontend App
+│   ├── public/
+│   ├── src/
+│   ├── package.json
+│       
+└── README.md
+
 
 
 ## 🛠️ Tech Stack
@@ -25,8 +38,6 @@ A sleek and secure authentication system featuring local login/signup and Google
 | **Authentication** | OAuth2 (Google) , Spring Security                                                                                           |
 | **Database**       | PostgreSQL      |                                                                         |
 | **Version Control** | GitHub                              |
-| **Containerization** | Docker          |
-
 ---
 
 
