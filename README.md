@@ -12,6 +12,10 @@ A sleek and secure authentication system featuring local login/signup and Google
 
 ---
 
+## 🎥 Interface
+
+![Webpage](./img/Loginpage.gif)
+
 ## 📂 Folder Structure
 ```
 Authentication-Page-using-Springboot-and-React/
