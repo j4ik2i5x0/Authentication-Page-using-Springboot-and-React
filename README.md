@@ -45,9 +45,7 @@ Authentication-Page-using-Springboot-and-React/
 | **Version Control** | GitHub                              |
 ---
 
-Here’s the **updated version** with the step to add your **OAuth2 Client ID** — formatted for direct copy-paste into your `README.md`:
 
----
 
 ## 🚀 Steps to Run the Application
 
