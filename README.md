@@ -121,9 +121,6 @@ npm start
 Runs on: `http://localhost:3000`
 
 ---
-Great! Here's a clean and modern **Contributing** and **License** section for your `README.md`, ready to copy-paste:
-
----
 
 ## 🤝 Contributing
 
